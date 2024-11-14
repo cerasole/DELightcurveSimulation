@@ -6,7 +6,7 @@
 
 This fork of the DELightcurveSimulation code contains the original Sam Connolly repository (in Python 2) in this folder.
 
-In addition, the $${\color{red}python3\_version}$$ directory contains 
+In addition, the $${\color{red}`python3_version'}$$ directory contains 
 
 - an updated Python 3 version of the DELightcurveSimulation code in the $${\color{red}python3_version/DELCgen3/}$$ directory
 
