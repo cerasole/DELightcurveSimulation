@@ -2,9 +2,10 @@
 
 #### Python version of the Emmanoulopoulos light curve simulation algorithm.
 
-$${\color{red}Note: this fork of the DELightcurveSimulation code contains the original Sam Connolly repository (in Python 2) in this folder.}$$
+#### $${\color{red}Note}$$
 
-$${\color{red}
+This fork of the DELightcurveSimulation code contains the original Sam Connolly repository (in Python 2) in this folder.
+
 In addition, the python3_version contains 
 
 - an updated Python 3 version of the DELightcurveSimulation code in the python3_version/DELCgen3/ directory
@@ -23,7 +24,6 @@ Fermi-LAT lightcurve repository (from the Tuorla blazar monitoring program)
 analysis to investigate the significance of the correlation between the gamma-ray and optical light-curves of BL Lacertae.
 
 The rest of this README is the mostly the same as the one from the original Sam Connolly repository.
-}$$
 
 ##### As according to [Emmanoulopoulos et al 2013, Monthly Notices of the Royal Astronomical Society, 433, 907](http://adsabs.harvard.edu/abs/2013MNRAS.433..907E)
 
