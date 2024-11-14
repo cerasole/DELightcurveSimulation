@@ -8,19 +8,19 @@ This fork of the DELightcurveSimulation code contains the original Sam Connolly 
 
 In addition, the **python3_version** directory contains 
 
-- an updated Python 3 version of the DELightcurveSimulation code in the $${\color{red}python3_version/DELCgen3/}$$ directory
+- an updated Python 3 version of the DELightcurveSimulation code in the **python3_version/DELCgen3/** directory
 
-- a personal implementation of the zDCF computation between two time series in the $${\color{red}python3_version/zDCF/}$$ directory
+- a personal implementation of the zDCF computation between two time series in the **python3_version/zDCF/** directory
 
-- Notebooks to show how to use the code to perform a full cross-correlation analyses in the $${\color{red}python3_version/Notebooks/}$$ directory.
+- Notebooks to show how to use the code to perform a full cross-correlation analyses in the **python3_version/Notebooks/** directory.
 
-The science case that is presented in the $${\color{red}python3_version/Notebooks/BL_Lacertae}$$ directory concerns the blazar BL Lacertae.
+The science case that is presented in the **python3_version/Notebooks/BL_Lacertae** directory concerns the blazar BL Lacertae.
 
-- In the $${\color{red}Analysis_HEgammaLC_Simulations.ipynb}$$ ($${\color{red}Analysis_OpticalLC_Simulations.ipynb}$$) notebook, it is shown how to simulate light-curves sharing the same flux 
-distribution and power spectral density as the publicly available long-term gamma-ray (optical R-band) light-curve of BL Lacertae from the 
-Fermi-LAT lightcurve repository (from the Tuorla blazar monitoring program)
+- In the **Analysis_HEgammaLC_Simulations.ipynb** (**Analysis_OpticalLC_Simulations.ipynb**) notebook, it is shown how to simulate 
+light-curves sharing the same flux distribution and power spectral density as the publicly available long-term gamma-ray (optical R-band) 
+light-curve of BL Lacertae from the Fermi-LAT lightcurve repository (from the Tuorla blazar monitoring program)
 
-- In the $${\color{red}Analysis_zDCF_Optical_HEgamma.ipynb}$$ notebook, it is shown how to use the results from the previous two notebooks to perform a full cross-correlation 
+- In the **Analysis_zDCF_Optical_HEgamma.ipynb** notebook, it is shown how to use the results from the previous two notebooks to perform a full cross-correlation 
 analysis to investigate the significance of the correlation between the gamma-ray and optical light-curves of BL Lacertae.
 
 The rest of this README is the mostly the same as the one from the original Sam Connolly repository.
